@@ -1,4 +1,4 @@
-#The Student Information Management System is a web application developed using ASP.NET Core and .NET 6 MVC. The system allows users to manage student information efficiently. It includes functionalities to add new student records, edit existing records, view detailed information, and delete records. The application uses SQL Server for data storage and Entity Framework for database connectivity.
+The Student Information Management System is a web application developed using ASP.NET Core and .NET 6 MVC. The system allows users to manage student information efficiently. It includes functionalities to add new student records, edit existing records, view detailed information, and delete records. The application uses SQL Server for data storage and Entity Framework for database connectivity.
 
 Key Features:
 
